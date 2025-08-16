@@ -43,9 +43,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Md-Salih/Md-Salih/blob/output/snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Md-Salih/Md-Salih/output/github-contribution-grid-snake.svg)
 
 ---
 
