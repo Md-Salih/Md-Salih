@@ -43,10 +43,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Salih/output/snake.svg" alt="Snake animation"/>
-</p>
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Md-Salih/Md-Salih/blob/output/snake.svg)
+
 
 ---
 
